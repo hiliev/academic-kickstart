@@ -18,12 +18,13 @@ organizations:
   url: "https://business.holler.live/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I write Python and Scala code, scrape and analyse data, design algorithms, and learn about information retrieval in general.
+bio: I write C/C++, Python, and Scala code, scrape and analyse data, design algorithms, and learn about information retrieval in general.
 
 interests:
 - Statistical Learning
 - Information Retrieval
 - High-Performance Computing
+- Performance Optimisation
 - Artificial Intelligence
 - Software Developmen
 
@@ -71,10 +72,11 @@ user_groups:
 - Analytics
 ---
 
-Hi there! My name is Hristo and I'm what you get when you combine a physicist, a data scientist, and a software developer.
+Hi there! My name is Hristo and I'm what you get when you combine a theoretical physicist and a software developer.
 I'm the chief data scientist of [holler.live](https://business.holler.live) and most of my time goes in writing Python and Scala code, scraping and analysing data, designing algorithms, and learning about information retrieval in general.
-You can also find me answering questions on Stack Overflow. I seem to have become something of an authority on parallel programming there, and in particular am the only one as of  today (March 2019) to hold golden badges for both MPI and OpenMP.
+You can also find me answering questions on Stack Overflow. I seem to have become something of an authority on parallel programming there, and in particular am the only one as of today (February 2020) to hold golden badges for both MPI and OpenMP.
 
 <a href="https://stackoverflow.com/users/1374437/hristo-iliev"><img src="https://stackoverflow.com/users/flair/1374437.png" width="208" height="58" alt="profile for Hristo Iliev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hristo Iliev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-In my past lives I've also done research in physics and performance optimisation of parallel scientific codes.
+In my free time, I like to reverse engineer stuff - it fascinates me to understand how things work and I learn so many things.
+I've also done research in physics and performance optimisation of serial and parallel engineering and scientific codes.
