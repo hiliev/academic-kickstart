@@ -21,12 +21,12 @@ organizations:
 bio: I write C/C++, Python, and Scala code, scrape and analyse data, design algorithms, and learn about information retrieval in general.
 
 interests:
-- Statistical Learning
-- Information Retrieval
 - High-Performance Computing
 - Performance Optimisation
 - Artificial Intelligence
-- Software Developmen
+- Statistical Learning
+- Information Retrieval
+- Software Development
 
 education:
   courses:
