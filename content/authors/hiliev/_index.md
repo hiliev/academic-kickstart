@@ -72,9 +72,9 @@ user_groups:
 - Analytics
 ---
 
-Hi there! My name is Hristo and I'm what you get when you combine a theoretical physicist and a software developer, and then throw in a supercomputer in the mix.
+Hi there! My name is Hristo and I'm what you get when you combine a theoretical physicist and a software developer, and then throw a supercomputer into the mix.
 I'm the chief data scientist of [holler.live](https://business.holler.live) and most of my time goes in writing Python and Scala code, scraping and analysing data, designing algorithms, and learning about information retrieval in general.
-You can also find me answering questions on Stack Overflow.
+You can also find me building compute clusters here and there and answering questions on Stack Overflow.
 I seem to have become something of an authority on parallel programming there, and in particular am the only one today (February 2020) to hold golden badges for all three major HPC programming tags: [`mpi`](https://stackoverflow.com/help/badges/5414/mpi), [`openmp`](https://stackoverflow.com/help/badges/4843/openmp), and [`parallel-processing`](https://stackoverflow.com/help/badges/7758/parallel-processing).
 
 <a href="https://stackoverflow.com/users/1374437/hristo-iliev"><img src="https://stackoverflow.com/users/flair/1374437.png" width="208" height="58" alt="profile for Hristo Iliev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hristo Iliev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
